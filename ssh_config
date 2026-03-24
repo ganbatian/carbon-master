@@ -1,0 +1,5 @@
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile C:\Users\Administrator\AppData\LocalLow\dev-nav\id_ed25519
+    StrictHostKeyChecking=no
